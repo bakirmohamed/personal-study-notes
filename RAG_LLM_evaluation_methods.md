@@ -1,6 +1,6 @@
 
 # Evaluate RAG and LLMs
-*source* : https://www.youtube.com/watch?v=97ftVtITKfo&list=PLrLEqwuz-mRI5ubqVJ7DpbHheCflJDDXk&ab_channel=AIAnytime​
+
 
 # How to build a framework ? 
 - Model size and complexity
@@ -22,3 +22,6 @@
 # Quantative performance metrics
 ​
 # Qualitative performance metrics
+
+
+*source* : https://www.youtube.com/watch?v=97ftVtITKfo&list=PLrLEqwuz-mRI5ubqVJ7DpbHheCflJDDXk&ab_channel=AIAnytime​
